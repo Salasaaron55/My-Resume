@@ -1,0 +1,13 @@
+html {
+  background-color: antiquewhite;
+}
+h1,
+h2 {
+  text-align: center;
+  background-color: #768b9a;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 250px;
+}
